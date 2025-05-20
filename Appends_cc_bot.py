@@ -14,7 +14,7 @@ from telegram.ext import (
 
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-DEFAULT_CHANNEL = "-1002418844773"
+DEFAULT_CHANNEL = "-1002317504308"
 
 FOOTER_HTML = """
 <blockquote><b>➥ ʙʏ : [@Anime_Community_India]</b>
